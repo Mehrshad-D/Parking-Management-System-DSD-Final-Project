@@ -51,3 +51,6 @@ This file contains the textual output of the simulation run, including any debug
 ### `DSD-Final-401105912.pdf` 
 
 This is brief report of the project written in Persian.
+
+## Contributors
+Mehrshad Dehghani - 401105912
