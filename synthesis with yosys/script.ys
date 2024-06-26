@@ -1,0 +1,3 @@
+read_verilog parking.v
+synth -top parking
+write_blif parking_system.blif
